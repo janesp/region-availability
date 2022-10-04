@@ -15,10 +15,10 @@
           "regionName": "Graubünden"
         },
         "periodValues": [
-          false,
-          false,
           true,
           true,
+          true,
+          false,
           true
         ]
       },
@@ -29,10 +29,10 @@
         },
         "periodValues": [
           false,
-          true,
-          true,
           false,
-          true
+          false,
+          true,
+          false
         ]
       },
       {
@@ -41,11 +41,11 @@
           "regionName": "Valais"
         },
         "periodValues": [
-          false,
+          true,
           true,
           false,
-          true,
-          true
+          false,
+          false
         ]
       },
       {
@@ -54,9 +54,9 @@
           "regionName": "Vaud"
         },
         "periodValues": [
-          true,
           false,
-          true,
+          false,
+          false,
           false,
           true
         ]
@@ -68,10 +68,10 @@
         },
         "periodValues": [
           true,
-          true,
           false,
           true,
-          false
+          false,
+          true
         ]
       },
       {
@@ -80,11 +80,11 @@
           "regionName": "St. Gallen"
         },
         "periodValues": [
-          false,
-          false,
           true,
           true,
-          true
+          true,
+          true,
+          false
         ]
       },
       {
@@ -93,7 +93,7 @@
           "regionName": "Zürich"
         },
         "periodValues": [
-          true,
+          false,
           false,
           true,
           false,
@@ -106,11 +106,11 @@
           "regionName": "Fribourg"
         },
         "periodValues": [
+          false,
+          false,
           true,
           false,
-          false,
-          false,
-          false
+          true
         ]
       },
       {
@@ -122,8 +122,8 @@
           false,
           true,
           false,
-          true,
-          true
+          false,
+          false
         ]
       },
       {
@@ -133,10 +133,10 @@
         },
         "periodValues": [
           false,
+          true,
+          true,
           false,
-          false,
-          false,
-          false
+          true
         ]
       },
       {
@@ -149,7 +149,7 @@
           false,
           false,
           false,
-          false
+          true
         ]
       },
       {
@@ -160,9 +160,9 @@
         "periodValues": [
           false,
           false,
-          true,
-          true,
-          true
+          false,
+          false,
+          false
         ]
       },
       {
@@ -173,8 +173,8 @@
         "periodValues": [
           true,
           true,
-          false,
-          false,
+          true,
+          true,
           true
         ]
       },
@@ -184,9 +184,9 @@
           "regionName": "Jura"
         },
         "periodValues": [
-          false,
-          false,
           true,
+          true,
+          false,
           true,
           false
         ]
@@ -197,10 +197,10 @@
           "regionName": "Neuchâtel"
         },
         "periodValues": [
+          false,
           true,
           true,
-          false,
-          false,
+          true,
           false
         ]
       },
@@ -210,11 +210,11 @@
           "regionName": "Solothurn"
         },
         "periodValues": [
+          false,
           true,
-          true,
-          true,
-          true,
-          false
+          false,
+          false,
+          true
         ]
       },
       {
@@ -225,9 +225,9 @@
         "periodValues": [
           true,
           true,
-          true,
           false,
-          true
+          false,
+          false
         ]
       },
       {
@@ -236,10 +236,10 @@
           "regionName": "Basel-Landschaft"
         },
         "periodValues": [
+          true,
+          true,
           false,
-          true,
-          true,
-          true,
+          false,
           true
         ]
       },
@@ -249,20 +249,7 @@
           "regionName": "Obwalden"
         },
         "periodValues": [
-          false,
           true,
-          false,
-          false,
-          true
-        ]
-      },
-      {
-        "region": {
-          "regionId": 7,
-          "regionName": "Nidwalden"
-        },
-        "periodValues": [
-          false,
           true,
           true,
           false,
@@ -271,15 +258,28 @@
       },
       {
         "region": {
-          "regionId": 25,
-          "regionName": "Genève"
+          "regionId": 7,
+          "regionName": "Nidwalden"
         },
         "periodValues": [
           true,
           false,
-          true,
+          false,
           true,
           true
+        ]
+      },
+      {
+        "region": {
+          "regionId": 25,
+          "regionName": "Genève"
+        },
+        "periodValues": [
+          false,
+          false,
+          false,
+          true,
+          false
         ]
       },
       {
@@ -288,9 +288,9 @@
           "regionName": "Schaffhausen"
         },
         "periodValues": [
+          false,
           true,
-          true,
-          true,
+          false,
           false,
           true
         ]
@@ -301,10 +301,10 @@
           "regionName": "Appenzell Ausserrhoden"
         },
         "periodValues": [
-          false,
+          true,
           false,
           true,
-          true,
+          false,
           false
         ]
       },
@@ -314,8 +314,8 @@
           "regionName": "Zug"
         },
         "periodValues": [
-          true,
           false,
+          true,
           true,
           true,
           true
@@ -327,11 +327,11 @@
           "regionName": "Appenzell Innerrhoden"
         },
         "periodValues": [
-          true,
-          true,
           false,
           false,
-          false
+          false,
+          false,
+          true
         ]
       },
       {
@@ -340,8 +340,8 @@
           "regionName": "Basel-Stadt"
         },
         "periodValues": [
-          true,
-          true,
+          false,
+          false,
           true,
           false,
           false
