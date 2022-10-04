@@ -1,0 +1,352 @@
+{
+  "$schema": "AvailabilityMapSchema.json",
+  "provider": {
+    "providerId": 789,
+    "providerName": "Provider 3"
+  },
+  "regionPeriods": {
+    "noOfPeriods": 5,
+    "startDate": "2022-12-06",
+    "intervalHours": 4,
+    "regionPeriodValues": [
+      {
+        "region": {
+          "regionId": 18,
+          "regionName": "Graubünden"
+        },
+        "periodValues": [
+          false,
+          false,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "region": {
+          "regionId": 2,
+          "regionName": "Bern"
+        },
+        "periodValues": [
+          false,
+          true,
+          true,
+          false,
+          true
+        ]
+      },
+      {
+        "region": {
+          "regionId": 23,
+          "regionName": "Valais"
+        },
+        "periodValues": [
+          false,
+          true,
+          false,
+          true,
+          true
+        ]
+      },
+      {
+        "region": {
+          "regionId": 22,
+          "regionName": "Vaud"
+        },
+        "periodValues": [
+          true,
+          false,
+          true,
+          false,
+          true
+        ]
+      },
+      {
+        "region": {
+          "regionId": 21,
+          "regionName": "Ticino"
+        },
+        "periodValues": [
+          true,
+          true,
+          false,
+          true,
+          false
+        ]
+      },
+      {
+        "region": {
+          "regionId": 17,
+          "regionName": "St. Gallen"
+        },
+        "periodValues": [
+          false,
+          false,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "region": {
+          "regionId": 1,
+          "regionName": "Zürich"
+        },
+        "periodValues": [
+          true,
+          false,
+          true,
+          false,
+          false
+        ]
+      },
+      {
+        "region": {
+          "regionId": 10,
+          "regionName": "Fribourg"
+        },
+        "periodValues": [
+          true,
+          false,
+          false,
+          false,
+          false
+        ]
+      },
+      {
+        "region": {
+          "regionId": 3,
+          "regionName": "Luzern"
+        },
+        "periodValues": [
+          false,
+          true,
+          false,
+          true,
+          true
+        ]
+      },
+      {
+        "region": {
+          "regionId": 19,
+          "regionName": "Aargau"
+        },
+        "periodValues": [
+          false,
+          false,
+          false,
+          false,
+          false
+        ]
+      },
+      {
+        "region": {
+          "regionId": 4,
+          "regionName": "Uri"
+        },
+        "periodValues": [
+          false,
+          false,
+          false,
+          false,
+          false
+        ]
+      },
+      {
+        "region": {
+          "regionId": 20,
+          "regionName": "Thurgau"
+        },
+        "periodValues": [
+          false,
+          false,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "region": {
+          "regionId": 5,
+          "regionName": "Schwyz"
+        },
+        "periodValues": [
+          true,
+          true,
+          false,
+          false,
+          true
+        ]
+      },
+      {
+        "region": {
+          "regionId": 26,
+          "regionName": "Jura"
+        },
+        "periodValues": [
+          false,
+          false,
+          true,
+          true,
+          false
+        ]
+      },
+      {
+        "region": {
+          "regionId": 24,
+          "regionName": "Neuchâtel"
+        },
+        "periodValues": [
+          true,
+          true,
+          false,
+          false,
+          false
+        ]
+      },
+      {
+        "region": {
+          "regionId": 11,
+          "regionName": "Solothurn"
+        },
+        "periodValues": [
+          true,
+          true,
+          true,
+          true,
+          false
+        ]
+      },
+      {
+        "region": {
+          "regionId": 8,
+          "regionName": "Glarus"
+        },
+        "periodValues": [
+          true,
+          true,
+          true,
+          false,
+          true
+        ]
+      },
+      {
+        "region": {
+          "regionId": 13,
+          "regionName": "Basel-Landschaft"
+        },
+        "periodValues": [
+          false,
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "region": {
+          "regionId": 6,
+          "regionName": "Obwalden"
+        },
+        "periodValues": [
+          false,
+          true,
+          false,
+          false,
+          true
+        ]
+      },
+      {
+        "region": {
+          "regionId": 7,
+          "regionName": "Nidwalden"
+        },
+        "periodValues": [
+          false,
+          true,
+          true,
+          false,
+          false
+        ]
+      },
+      {
+        "region": {
+          "regionId": 25,
+          "regionName": "Genève"
+        },
+        "periodValues": [
+          true,
+          false,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "region": {
+          "regionId": 14,
+          "regionName": "Schaffhausen"
+        },
+        "periodValues": [
+          true,
+          true,
+          true,
+          false,
+          true
+        ]
+      },
+      {
+        "region": {
+          "regionId": 15,
+          "regionName": "Appenzell Ausserrhoden"
+        },
+        "periodValues": [
+          false,
+          false,
+          true,
+          true,
+          false
+        ]
+      },
+      {
+        "region": {
+          "regionId": 9,
+          "regionName": "Zug"
+        },
+        "periodValues": [
+          true,
+          false,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "region": {
+          "regionId": 16,
+          "regionName": "Appenzell Innerrhoden"
+        },
+        "periodValues": [
+          true,
+          true,
+          false,
+          false,
+          false
+        ]
+      },
+      {
+        "region": {
+          "regionId": 12,
+          "regionName": "Basel-Stadt"
+        },
+        "periodValues": [
+          true,
+          true,
+          true,
+          false,
+          false
+        ]
+      }
+    ]
+  }
+}

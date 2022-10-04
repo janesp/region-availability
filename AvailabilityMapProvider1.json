@@ -1,0 +1,28 @@
+{
+    "$schema": "./AvailabilityMapSchema.json",
+    "provider": {
+        "providerId": 123,
+        "providerName": "Provider 1"
+    },
+    "regionPeriods": {
+        "noOfPeriods": 5,
+        "startDate": "2022-12-06",
+        "intervalHours": 4,
+        "regionPeriodValues": [
+            {
+                "region": {
+                    "regionId": 1,
+                    "regionName": "Aargau"    
+                },
+                "periodValues": [ "True", "False" ]
+            },
+            {
+                "region": {
+                    "regionId": 2,
+                    "regionName": "Bern"    
+                },
+                "periodValues": [ "True", "True" ]
+            }        
+        ]
+    }
+}
